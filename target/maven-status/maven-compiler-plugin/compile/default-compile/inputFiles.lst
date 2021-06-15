@@ -1,0 +1,9 @@
+/home/matheus/eclipse-workspace/blog/src/main/java/br/com/unipe/sirius/blog/web/controller/HomeController.java
+/home/matheus/eclipse-workspace/blog/src/main/java/br/com/unipe/sirius/blog/config/SpringInitConfig.java
+/home/matheus/eclipse-workspace/blog/src/main/java/br/com/unipe/sirius/blog/config/RootConfig.java
+/home/matheus/eclipse-workspace/blog/src/main/java/br/com/unipe/sirius/blog/config/SpringJpaConfig.java
+/home/matheus/eclipse-workspace/blog/src/main/java/br/com/unipe/sirius/blog/web/model/Comment.java
+/home/matheus/eclipse-workspace/blog/src/main/java/br/com/unipe/sirius/blog/web/model/Post.java
+/home/matheus/eclipse-workspace/blog/src/main/java/br/com/unipe/sirius/blog/dao/PostDAO.java
+/home/matheus/eclipse-workspace/blog/src/main/java/br/com/unipe/sirius/blog/dao/CommentDAO.java
+/home/matheus/eclipse-workspace/blog/src/main/java/br/com/unipe/sirius/blog/config/SpringMvcConfig.java

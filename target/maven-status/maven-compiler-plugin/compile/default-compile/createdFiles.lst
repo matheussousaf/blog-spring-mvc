@@ -1,0 +1,5 @@
+br/com/unipe/sirius/blog/web/model/Post.class
+br/com/unipe/sirius/blog/config/SpringInitConfig.class
+br/com/unipe/sirius/blog/config/SpringMvcConfig.class
+br/com/unipe/sirius/blog/dao/PostDAO.class
+br/com/unipe/sirius/blog/config/RootConfig.class
